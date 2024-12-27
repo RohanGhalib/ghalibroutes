@@ -1,0 +1,13 @@
+{
+    "name": "introtaps/backendv2",
+    "description": "New backend infra for introtaps",
+    "authors": [
+        {
+            "name": "Muhammad Rohan Ghalib",
+            "email": "83542347+RohanGhalib@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "laravel/homestead": "^15.0"
+    }
+}
